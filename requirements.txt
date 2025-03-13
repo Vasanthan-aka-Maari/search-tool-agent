@@ -3,3 +3,4 @@ wikipedia
 langchain_groq
 langchain_community
 langchain
+duckduckgo-search
